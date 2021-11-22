@@ -1,0 +1,14 @@
+{
+	"prefix": "!",
+	"ownerID": "718115170798534656",
+	"everyoneMention": false,
+	"hostedBy": true,
+	"emoji": {
+		"play": "▶️",
+		"stop": "⏹️",
+		"queue": "📄",
+		"success": "☑️",
+		"repeat": "🔁",
+		"error": "❌"
+	}
+}
